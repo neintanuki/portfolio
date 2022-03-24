@@ -31,3 +31,8 @@
 .navbar a {
   text-decoration: none;
 }
+
+.navbar a:hover {
+  color: var(--primary-text);
+  transition: color .2s ease-in;
+}
