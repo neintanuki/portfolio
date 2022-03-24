@@ -1,0 +1,13 @@
+:root {
+  /*color*/
+  --primary-bg: #262335;
+  --primary-text: #ff7edb;
+  --secondary-text: rgba(255, 126, 219, 0.2);
+  --light-gray: #ccd6f6;
+  --dark-gray: #8892b0;
+
+  /*sizing*/
+  --space-md: 2.2rem;
+  --space-sm: 1.4rem;
+  --nav-height: 80px;
+}

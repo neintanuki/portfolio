@@ -1,0 +1,12 @@
+.outline {
+  padding: 0.65rem 1rem;
+  border: solid 2px var(--primary-text);
+  border-radius: 4px;
+  color: var(--primary-text) !important;
+  transition: background .2s ease-in;
+  background: none;
+}
+
+.outline:hover {
+  background: var(--secondary-text);
+}
